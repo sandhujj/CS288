@@ -1,0 +1,1 @@
+I acknowledge the use of tab based code completion to generally speed up my development process. I used the outputs to finish lines of code I was already writing. I have the ability to explain and even independently replicate the work done in this document if asked by an instructor.
